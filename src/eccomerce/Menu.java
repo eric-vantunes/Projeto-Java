@@ -11,7 +11,7 @@ import controller.Controller;
 import model.produto.Produto;
 import model.produto.ProdutoEletronico;
 import model.produto.ProdutoLivros;
-import produto.repository.ProdutoRepository;
+import repository.produto.ProdutoRepository;
 
 public class Menu {
 
